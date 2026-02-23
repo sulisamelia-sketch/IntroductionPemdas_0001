@@ -10,5 +10,6 @@ int main()
 
     cout << "Masukan Lebar :";
     cin >> lebar;
-    
+
+    luas = panjang * lebar;
 }
