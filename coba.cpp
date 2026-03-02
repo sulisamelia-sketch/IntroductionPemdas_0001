@@ -5,7 +5,7 @@ int  main()
 {
     int luas, sisi;
 
-    cout << "Masukan Sisi :";
+    cout <<  "Masukan Sisi :";
     cin >> sisi;
 
     cout << "Masukan Sisi :";
